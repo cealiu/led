@@ -1,0 +1,5 @@
+/led_back/venv/*
+/led_front/node_modules/*
+/led_front/dist/*
+/led_front/test/*
+
